@@ -6,11 +6,11 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.4.5</version>
-        <relativePath/> <!-- lookup parent from repository -->
+        <relativePath/> 
     </parent>
     <groupId>gt.edu.umg.ingenieria.sistemas.ingenieria_software.parcial2</groupId>
     <artifactId>shell_sort</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>v1</version>
     <name>shell_sort</name>
     <description>ShellSort es principalmente una variación de Insertion Sort . En la ordenación por inserción, movemos
         los elementos solo una posición adelante.
